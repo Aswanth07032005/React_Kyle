@@ -1,0 +1,8 @@
+src/
+├── pages/
+│   ├── PageOne.jsx       // Create Item
+│   ├── PageTwo.jsx       // Edit Item
+│   └── PageThree.jsx     // View Item
+│
+├── App.jsx
+└── index.css
